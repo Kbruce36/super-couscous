@@ -1,3 +1,4 @@
+#this is a simple calculator project.
 number1 = float(input("enter number 1: "))
 number2 = float(input("enter number 2: "))
 
